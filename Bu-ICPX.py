@@ -170,7 +170,7 @@ text = [
 "——————————— Bu-ICPX v1.0.0 - ICP查询工具 ———————————",
 "[*] 项目地址:[blue]https://github.com/Bu7terf1y/Bu-ICPX[/blue]",
 "[*] By.Bu7terf1y",
-"[*] 说明:批量查询ICP信息的目标文件为 targets.txt",
+"[*] 说明:批量查询ICP信息的目标文件为 targets.txt"
 ]
 # 起始颜色（浅粉）
 start = (255, 182, 193)   # light pink
