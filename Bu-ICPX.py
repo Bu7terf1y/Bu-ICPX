@@ -21,7 +21,7 @@ class ICPQuery:
     def check_file(self):
         if not os.path.exists("targets.txt"):
             with open("targets.txt", "w", encoding="utf-8") as f:
-                f.write("example.com\nexample2.com\nexample3.com")
+                f.write("baidu.com\n")
             print("\033[31m[!] 目标文件 targets.txt 不存在！已创建。\033[0m")
 
     # 目标检查
@@ -168,7 +168,6 @@ text = [
 "██████╔╝╚██████╔╝      ██║╚██████╗██║     ██╔╝ ██╗",
 "╚═════╝  ╚═════╝       ╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝",
 "——————————— Bu-ICPX v1.0.0 - ICP查询工具 ———————————",
-"[*] 作者:Bu7terf1y",
 "[*] 项目地址:[blue]https://github.com/Bu7terf1y/Bu-ICPX[/blue]",
 "[*] By.Bu7terf1y",
 "[*] 说明:批量查询ICP信息的目标文件为 targets.txt",
