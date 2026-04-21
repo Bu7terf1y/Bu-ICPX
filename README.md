@@ -1,6 +1,7 @@
 # Bu-ICPX - ICP查询工具
 
 ## 项目介绍
+<img width="493" height="252" alt="image" src="https://github.com/user-attachments/assets/b37a78b7-a339-4ccd-ab4e-043e0f79ea1c" />
 Bu-ICPX 是一个基于 Python 开发的 ICP 查询工具，支持手动查询和批量查询域名的 ICP 备案信息，并将结果保存为 CSV 文件。
 
 ## 功能特性
